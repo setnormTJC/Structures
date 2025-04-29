@@ -25,6 +25,8 @@ void printListOfPeople(const std::vector<Person> listOfPeople)
 		<< "\n";
 }
 
+
+
 int main()
 {
 	//arrays are "homogeneous" 

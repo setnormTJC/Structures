@@ -1,0 +1,11 @@
+012,45,7890,123,45,6789
+Blinding Lights,The Weeknd,Synthpop,171,3600,2019
+As It Was,Harry Styles,Pop,174,2200,2022
+abcdefu,GAYLE,Alt-Pop,122,1200,2021
+Stay,The Kid LAROI & Justin Bieber,Pop-Rap,170,3100,2021
+Bad Habit,Steve Lacy,Indie R&B,89,950,2022
+good 4 u,Olivia Rodrigo,Pop Rock,166,2900,2021
+Levitating,Dua Lipa,Disco Pop,103,3300,2020
+MONTERO (Call Me By Your Name),Lil Nas X,Pop Rap,113,2500,2021
+Die For You (Remix),The Weeknd & Ariana Grande,R&B,162,800,2023
+Shivers,Ed Sheeran,Pop,139,2100,2021
